@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Filter</string>
+    <string name="submit">SUBMIT</string>
+    <string name="BlackAndWhite">B And W</string>
+    <string name="upload">Upload Image</string>
+    <string name="open_image">Open Image</string>
+    <string name="my_gallery">My Gallery</string>
+    <string name="no_images">No Images</string>
+    <string name="choose_filter">Choose Filter</string>
+    <string name="image_filter">Image Filter</string>
+    <string name="blur">Blur Filter</string>
+    <string name="th_filter">TH Filter</string>
+</resources>
